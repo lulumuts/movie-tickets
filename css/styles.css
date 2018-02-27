@@ -1,0 +1,109 @@
+header{
+  background-color: yellow;
+  margin-top: -6vh;
+  margin-bottom: -3vh;
+}
+
+#form6 {
+  height:45vh;
+  float:right;
+  padding-top: 0;
+}
+
+#form5{
+  height:45vh;
+  float:right;
+}
+#form4 {
+  height:45vh;
+  float:right;
+
+}
+#form3{
+  height:45vh;
+  float:right;
+}
+#form2{
+  height:45vh;
+  float:right;
+}
+#form1{
+  height:45vh;
+  float:right;
+}
+
+h1{
+  text-align: center;
+  padding:7vh;
+  font-size: 18vh;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h2{
+  text-align: center;
+  margin-left: -60vh;
+  padding-bottom: 2vh;
+  font-family: 'Quicksand', sans-serif;
+}
+.movieTime{
+  text-align: center;
+  list-style-type: none;
+  background-color: black;
+  color:white;
+  padding-left: 55vh;
+  font-family: 'Quicksand', sans-serif;
+
+
+}
+
+ul{
+  list-style-type: none;
+  margin-left: -60vh;
+  padding-bottom: 6vh;
+  font-size: 150%;
+}
+
+#monday{
+  padding-bottom:10px;
+}
+#tuesday{
+  padding-bottom:10px;
+}
+#Thursday{
+  padding-bottom:10px;
+}
+#Friday{
+  padding-bottom:10px;
+}
+
+h2{
+  font-size: 10vh;
+  padding-left: 60vh;
+}
+
+#age {
+
+  text-align: center;
+  padding-bottom: 10vh;
+  padding-top: 5vh;
+  font-size: 4vh;
+  background-color: darkgrey;
+  margin-right: -10vh;
+  margin-left: -10vh;
+  color:black;
+  font-family: 'Quicksand', sans-serif;
+}
+
+section{
+  text-align: center;
+  font-size: 10vh;
+  font-family: 'Quicksand', sans-serif;
+}
+#button{
+  float:right;
+  padding-right: 40vh;
+  padding-top:-10vh;
+}
+#title{
+  padding-left: 8vh;
+}
